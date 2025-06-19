@@ -1,4 +1,4 @@
 # funcion
 
 def add(a, b):
-    return a + b   # luego, agregar un error aqui
+    return a + b -10
